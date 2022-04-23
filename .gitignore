@@ -1,3 +1,7 @@
 tmp/*
 git version
 .xml
+tmp
+*.txt
+
+
